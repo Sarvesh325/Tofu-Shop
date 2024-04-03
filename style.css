@@ -77,3 +77,58 @@
 }
 
 /* Hero Section Ends */
+/* Product Section  */
+
+.product_container {
+    background-image: url(/images/bg2.png);
+    width: 100vw;
+    height: 796px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.product_title {
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.product_desc {
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+.product_items_container {
+    display: flex;
+    justify-content: center;
+    color: white;
+
+}
+
+.product_items {
+    margin: 60px;
+    padding: 10px;
+}
+
+#item_img {
+    padding: 100px;
+    margin-top: 75px;
+    position: relative;
+    right: 110px;
+}
+
+#item_title {
+    color: #21243d;
+    font-weight: bold;
+    margin-top: 40%;
+    font-size: 70px;
+
+}
+
+#item_desc {
+    color: #21243d;
+    font-size: 20px;
+
+}
+
+/* Product Section Ends  */
