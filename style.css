@@ -162,3 +162,28 @@
 }
 
 /* Stat Section Ends */
+
+/* review section  */
+.container_review {
+    background-image: url(/images/bg6.png);
+    width: 100vw;
+    height: 974px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container_review1 {
+    background-image: url(/images/bg01.png);
+    width: 100vw;
+    height: 769px;
+    opacity: 0.9;
+    position: relative;
+    top: 100px;
+}
+
+
+#user_container {
+    margin-top: 180px;
+}
+
+/* review section Ends */
