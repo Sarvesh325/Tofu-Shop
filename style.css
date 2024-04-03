@@ -132,3 +132,31 @@
 }
 
 /* Product Section Ends  */
+
+/* Stat Section  */
+#stat_container {
+    background-image: url(/images/bg4.png);
+    width: 100vw;
+    height: 798px;
+}
+
+.container_circles {
+    margin-top: 50px;
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+    margin-top: 110px;
+    align-items: center;
+}
+
+.circle {
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 70px;
+    font-weight: bold;
+    border: 6px solid white;
+    border-radius: 50%;
+
+}
