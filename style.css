@@ -187,3 +187,35 @@
 }
 
 /* review section Ends */
+
+/* form section  */
+#textbox {
+    outline: none;
+    border-radius: 25px;
+    font-size: 18px;
+    width: 400px;
+    height: 38px;
+    color: rgb(156, 156, 156);
+    margin-left: 150px;
+
+}
+
+#form1 {
+    margin-top: 230px;
+}
+
+#sub_btn {
+    position: relative;
+    right: 50px;
+    bottom: 4px;
+}
+
+input {
+    padding-left: 25px;
+}
+
+#form_title {
+    font-size: 60px;
+}
+
+/* form section End */
